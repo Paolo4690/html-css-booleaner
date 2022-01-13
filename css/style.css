@@ -72,8 +72,28 @@ td.cella-testo {
 footer {
     color: #888888;
     font-size: 12px;
-    width: 150px;
 }
-footer > img {
+
+#img-foot1 {
     width: 150px;
+    height: 120px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    color: #ffffff;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+#img-foot2 {
+    width: 150px;
+    height: 120px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    color: #ffffff;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-weight: bold;
 }
