@@ -45,3 +45,22 @@ a {
 .testo-evidenziato {
     background-color: #ffff00;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    text-align: left;
+    color: #ffffff;
+    background-color: #20a9e5;
+}
+
+.linea-celeste {
+    background-color: #b1e5f2;
+}
+
+td.cella-testo {
+    width: 50%;
+}
